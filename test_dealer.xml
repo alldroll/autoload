@@ -2,7 +2,7 @@
     <lastBuildDate>Mon, 15 Feb 2016 07:23:58 GMT</lastBuildDate>
     <Offers>
     <Offer>
-        <idOffer>Test_ID_0006</idOffer>
+        <idOffer>Test_NUMBER_ID_0006</idOffer>
         <sMark>Land Rover</sMark>
         <sModel>Range Rover Evoque</sModel>
         <idCountry>0</idCountry>
@@ -25,6 +25,84 @@
             Сиденья Ebony, салон Ebony / Ebony со строчкой Ivory
         </sInterior>
         <VIN>test_2</VIN>
+        <SOR>1100222333</SOR>
+    </Offer>
+    <Offer>
+        <idOffer>Test_NUMBER_ID_0007</idOffer>
+        <sMark>Land Rover</sMark>
+        <sModel>Range Rover Evoque</sModel>
+        <idCountry>0</idCountry>
+        <idCity>2</idCity>
+        <YearOfMade>2015</YearOfMade>
+        <Price>3491000</Price>
+        <idCurrency>1</idCurrency>
+        <idNewType>1</idNewType>
+        <Volume>2240</Volume>
+        <idFrameType>7</idFrameType>
+        <idTransmission>2</idTransmission>
+        <idDriveType>3</idDriveType>
+        <idWheelType>2</idWheelType>
+        <idHaulType>1</idHaulType>
+        <Haul>0</Haul>
+        <idHaulRussiaType>0</idHaulRussiaType>
+        <Whereabouts>0</Whereabouts>
+        <sComplectation>2.2 SD AT HSE Dynamic 3dr.</sComplectation>
+        <sInterior>
+            Сиденья Ebony, салон Ebony / Ebony со строчкой Ivory
+        </sInterior>
+        <VIN>ОТСУТСТВУЕТ</VIN>
+        <SOR>1100222333</SOR>
+    </Offer>
+    <Offer>
+        <idOffer>Test_NUMBER_ID_0008</idOffer>
+        <sMark>Land Rover</sMark>
+        <sModel>Range Rover Evoque</sModel>
+        <idCountry>0</idCountry>
+        <idCity>2</idCity>
+        <YearOfMade>2015</YearOfMade>
+        <Price>3491000</Price>
+        <idCurrency>1</idCurrency>
+        <idNewType>1</idNewType>
+        <Volume>2240</Volume>
+        <idFrameType>7</idFrameType>
+        <idTransmission>2</idTransmission>
+        <idDriveType>3</idDriveType>
+        <idWheelType>2</idWheelType>
+        <idHaulType>1</idHaulType>
+        <Haul>0</Haul>
+        <idHaulRussiaType>0</idHaulRussiaType>
+        <Whereabouts>0</Whereabouts>
+        <sComplectation>2.2 SD AT HSE Dynamic 3dr.</sComplectation>
+        <sInterior>
+            Сиденья Ebony, салон Ebony / Ebony со строчкой Ivory
+        </sInterior>
+        <VIN>XTA219000C0050532</VIN>
+        <SOR>1100222333</SOR>
+    </Offer>
+    <Offer>
+        <idOffer>Test_NUMBER_ID_0009</idOffer>
+        <sMark>Land Rover</sMark>
+        <sModel>Range Rover Evoque</sModel>
+        <idCountry>0</idCountry>
+        <idCity>2</idCity>
+        <YearOfMade>2015</YearOfMade>
+        <Price>3491000</Price>
+        <idCurrency>1</idCurrency>
+        <idNewType>1</idNewType>
+        <Volume>2240</Volume>
+        <idFrameType>7</idFrameType>
+        <idTransmission>2</idTransmission>
+        <idDriveType>3</idDriveType>
+        <idWheelType>2</idWheelType>
+        <idHaulType>1</idHaulType>
+        <Haul>0</Haul>
+        <idHaulRussiaType>0</idHaulRussiaType>
+        <Whereabouts>0</Whereabouts>
+        <sComplectation>2.2 SD AT HSE Dynamic 3dr.</sComplectation>
+        <sInterior>
+            Сиденья Ebony, салон Ebony / Ebony со строчкой Ivory
+        </sInterior>
+        <VIN>ST2027040065</VIN>
         <SOR>1100222333</SOR>
     </Offer>
     </Offers>
